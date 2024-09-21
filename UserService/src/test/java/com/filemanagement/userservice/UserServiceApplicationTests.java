@@ -1,4 +1,4 @@
-package com.filemanagement.userservice.UserService;
+package com.filemanagement.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
